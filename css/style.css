@@ -30,6 +30,10 @@ h1.header {
     color: rgb(61, 61, 61);
 }
 
+#index-banner {
+    height: 100vh;
+}
+
 
 /* footer */
 
@@ -48,4 +52,8 @@ h1.header {
 .card-action a {
     color: #b49753 !important;
     font-weight: bold;
+}
+
+.divider {
+    background-color: #aeddc5;
 }
